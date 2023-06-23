@@ -281,6 +281,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * [Subnautica: Nitrox Mod](game_eggs/steamcmd_servers/subnautica_nitrox_mod)
 * [Sven Co-op](game_eggs/steamcmd_servers/svencoop)
 * [The Forest](game_eggs/steamcmd_servers/the_forest)
+* [Sons of the forest](game_eggs/steamcmd_servers/sonsoftheforest)
 * [The Isle](game_eggs/steamcmd_servers/the_isle)
   * [Evrima](game_eggs/steamcmd_servers/the_isle/evrima)
 * [Team Fortress 2 Classic](game_eggs/steamcmd_servers/team_fortress_2_classic)
